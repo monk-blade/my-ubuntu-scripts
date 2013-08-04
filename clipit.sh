@@ -1,0 +1,1 @@
+strings ~/.local/share/clipit/history >> stored.txt
