@@ -34,4 +34,5 @@ alias netppp='sudo nethogs ppp0'
 alias neteth='sudo nethogs eth0'
 ##git commands##
 alias gitpm='git push origin master'
-alias gitpl='git pull origin master'">.bash_aliases
+alias gitpl='git pull origin master'
+alias gitign='touch .gitignore && echo \"*~\" >> .gitignore'">.bash_aliases
