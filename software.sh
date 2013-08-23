@@ -7,7 +7,7 @@ sudo apt-get update
 
 echo "Installing Basic software packages..."
 sudo apt-get install apache2 firefox freemind geary ibus-m17n openshot pandoc git kazam gdebi chromium-browser\
-shutter retext texlive preload ubuntu-restricted-extras vlc nethogs cheese audacity openjdk-7-jdk\
+shutter retext texlive-latex-base preload ubuntu-restricted-extras vlc nethogs cheese audacity openjdk-7-jdk\
 php5 mysql-client mysql-server dia
 
 echo "Installing Advance Software packages..."
